@@ -2,6 +2,8 @@
 
 This is a React Native event management app that allows users to view, register, and provide feedback for events. The app includes features such as event registration, event search, and feedback submission.
 
+### [Download APK from here 👉](https://drive.google.com/file/d/10oLhy3U4hHkWNjY9CEm295WHmZa10FG2/view?usp=sharing)
+
 ## Features
 
 - View a list of events
